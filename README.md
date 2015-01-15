@@ -1,6 +1,8 @@
 Description
 ---------------------
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/artur9010/WebCraft?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 WebCraft is Minecraft Clone written in JavaScript (WebGL)
 
 File structure
